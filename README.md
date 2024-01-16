@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharc0der&label=Profile%20views&color=0e75b6&style=flat" alt="tusharc0der" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **tusharmobile2@gmail.com**
 
