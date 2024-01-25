@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-agarwal7&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-agarwal7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tushar1878926" target="blank"><img src="https://img.shields.io/twitter/follow/@tushar1878926?logo=twitter&style=for-the-badge" alt="@tushar1878926" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tushar1878926" target="blank"><img src="https://img.shields.io/twitter/follow/tushar1878926?logo=twitter&style=for-the-badge" alt="tushar1878926" /></a> </p>
 
 - 🌱 I’m currently learning **React and Backend**
 
