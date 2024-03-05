@@ -1,5 +1,5 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2ef04a-4afe-4b63-bda9-b5ea5e2eb63e/dbxzjpi-05d0cdc8-d446-432c-94bf-305905bf260b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmMmVmMDRhLTRhZmUtNGI2My1iZGE5LWI1ZWE1ZTJlYjYzZVwvZGJ4empwaS0wNWQwY2RjOC1kNDQ2LTQzMmMtOTRiZi0zMDU5MDViZjI2MGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eCg-kzgoDLOZOGD1Ya17tHGOL6M_mK_sGCU8TNWNNd0" alt="">
-<h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
+<h1 align="center">Hi 👋, I'm Tushar Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
