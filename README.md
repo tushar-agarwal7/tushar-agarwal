@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar1878926" target="blank"><img src="https://img.shields.io/twitter/follow/tushar1878926?logo=twitter&style=for-the-badge" alt="tushar1878926" /></a> </p>
 
-- 🌱 I’m currently learning **React and Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **MERN**
 
